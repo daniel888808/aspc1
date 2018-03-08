@@ -12,6 +12,7 @@ namespace ConsoleApplication2
         {
             Console.WriteLine("scola");
             Console.WriteLine("luis");
+            Console.WriteLine("Lscola");
         }
     }
 }
